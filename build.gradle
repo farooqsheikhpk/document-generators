@@ -14,7 +14,7 @@ repositories {
         url 'http://jaspersoft.jfrog.io/jaspersoft/third-party-ce-artifacts/'
     }
     maven {
-        url 'https://artifact.aspose.com/repo/'
+        url 'https://repository.aspose.com/repo/'
     }
     // HTML browsing
     // https://artifact.aspose.com/webapp/#/artifacts/browse/tree/General/repo
